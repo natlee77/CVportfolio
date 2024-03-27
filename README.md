@@ -1,7 +1,7 @@
-<h1 align="center"> .... .com </h1>
-<p align="center" First iteration of my portfolio website <a href="https://www. ...admin-bar.com" target="_blank">...address.com</a></p>
+<h1 align="center"> https://cv-nataliya-lisjo.netlify.app/ </h1>
+<p align="center" First iteration of my portfolio website <a href="https://www. ...  " target="_blank">cv-nataliya-lisjo.netlify.app</a></p>
 <div align="center">
-   <img src="https://github.com/natlee77/portfolio/blob/master/assets/images/Sk%C3%A4rmklipp.PNG"  width="400"/>
+   <img src="https: "  width="400"/>
 </div>
 
 ## 📜 Description

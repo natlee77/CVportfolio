@@ -291,7 +291,7 @@ button:focus {
 }
 
 .section-padding {
-    padding: 130px 0;
+    padding: 70px 0;
 }
 
 .contact-info span {
@@ -302,11 +302,11 @@ button:focus {
 Navigation 
 ==================================== */
 body.admin-bar .fixed-top {
-    /* top: 28px; */
+     top: 28px; 
 }
 
 .navbar {
-    padding: 30px 0;
+    padding: 0 0;
     border-bottom: 2px solid #43801d;
 }
 
@@ -834,6 +834,11 @@ body.admin-bar .fixed-top {
 .isotope_items .single_item img {
     border-radius: 6px;
 }
+.isotope_item   {
+   border: #43801d 1px solid;
+   
+}
+ 
 
 .isotope_items .single_item_content {
     -webkit-transform: scale(0);
